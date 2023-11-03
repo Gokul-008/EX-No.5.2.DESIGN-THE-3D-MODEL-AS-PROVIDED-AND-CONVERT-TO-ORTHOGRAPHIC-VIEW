@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Screenshot 2023-11-03 183820](https://github.com/Gokul-008/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/121165996/e7a37edf-1c14-44a3-822a-5e81758cf496)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
